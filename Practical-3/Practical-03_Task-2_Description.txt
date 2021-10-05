@@ -1,0 +1,5 @@
+This program is to show what will happen when we do not include "<iostream>" header file in C++ program.
+
+The iostream file contains the all the functions related to input output operations, so on running program without this header 
+file will produce error that cout or cin are not declared.
+
