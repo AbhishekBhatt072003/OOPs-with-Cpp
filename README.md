@@ -35,3 +35,32 @@ Task2: Access these methods using "using" keyword for main method?
 Task3:  Try to access these methods without using, (SRO) and "using" keyword and check how the compiler will react to it?
 
 Task4: Try to access these methods for Mixed Values [Int, Float] and see how the compiler will react to it?
+  
+  
+  
+  
+  <h3 align="center">Practical 5</h3>
+  
+  Primary Data Types related questions in C++:
+
+Task1: Initialise all primary data types, assign their values and print them all?
+[char, bool, short, int, long, float, double, long double, wide char]
+
+
+  
+    <h3 align="center">Practical 6</h3>
+  
+  String related Questions in C++:
+
+Task1: What happens if we add integer with a string, how the compiler would react to it?
+  
+Task2: Check the entered string is Palindrome or not?
+  
+Task3: Make a reverse of a string using reverse method and reverse_iterator of string class?
+
+Task4: String Compare: Check if the strings are equal or not? (do not use str1.compare(str2), do it manually)
+
+Task5: String Compare: Check the possible values string.compare() function will return?
+  
+Task6: Check if string is mutable in C++ or not?
+  
