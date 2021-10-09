@@ -38,17 +38,17 @@ Task4: Try to access these methods for Mixed Values [Int, Float] and see how the
   
   
   
+<h3 align="center">Practical 5</h3>
   
-  <h3 align="center">Practical 5</h3>
-  
-  Primary Data Types related questions in C++:
+Primary Data Types related questions in C++:
 
 Task1: Initialise all primary data types, assign their values and print them all?
 [char, bool, short, int, long, float, double, long double, wide char]
 
 
+ 
   
-    <h3 align="center">Practical 6</h3>
+  <h3 align="center">Practical 6</h3>
   
   String related Questions in C++:
 
