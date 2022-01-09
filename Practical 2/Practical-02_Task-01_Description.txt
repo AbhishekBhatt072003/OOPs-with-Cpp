@@ -1,0 +1,1 @@
+code.cpp is the program written to find whether the number is Prime or not without using any inbuilt library function or method.
